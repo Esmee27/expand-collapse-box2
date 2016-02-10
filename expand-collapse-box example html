@@ -1,0 +1,10 @@
+<div class="more-less-box">
+<h3>
+Fact box
+</h3>
+<p class= "more-less-area collapsed">
+Lorem ipsum dolor sit amet, idque utroque id eum, has erant periculis ad, delenit laboramus his ei. Ne agam dicam eum, est quodsi deterruisset ne. Ut mea movet oporteat constituam, summo argumentum id nec.
+</p>
+<a class="more-less-button"
+href="javascript:void(0);" onclick="toggleMoreLess('.more-less-area')">Show/Hide Box</a>
+</div>
